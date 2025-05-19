@@ -1334,6 +1334,11 @@ a {
 }
 .cid-uLuOsHIO2M {
   display: flex;
+  background-image: url("../../../assets/images/giphy-1.gif");
+}
+.cid-uLuOsHIO2M .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-uLuOsHIO2M {
@@ -1907,7 +1912,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tJS6tZXiPa .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.9rem);
+    max-height: calc(98.5vh - 5rem);
   }
 }
 .cid-tJS6tZXiPa .navbar.collapsed .dropdown-menu .dropdown-submenu {
